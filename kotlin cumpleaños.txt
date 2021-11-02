@@ -1,0 +1,20 @@
+fun main() {
+    println("feliz cumpleaños moiso")
+    
+    //este es un comentario explicando el cod
+    println("")//esto es un espacio
+    println("tienes 30 años")
+    println("Dios es bueno contigo")
+    
+    //este es un comentario explicando el cod
+    println("")
+    println("   ,,,,,   ")
+    println("   |||||   ")
+    println(" =========")
+    println("@@@@@@@@@@@")
+    println("{~@~@~@~@~}")
+    println("@@@@@@@@@@@")
+    
+    println("")//esto es un espacio
+    //este es un comentario explicando el cod
+}
